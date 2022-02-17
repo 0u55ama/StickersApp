@@ -1,0 +1,1480 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Naomi",
+      "publisher": "0ussama",
+      "tray_image_file": "woman1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "woman1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "woman2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "woman3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "woman4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "woman5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "woman6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "woman7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "woman8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        }
+      ]
+    },{
+      "identifier": "2",
+      "name": "Reggie",
+      "publisher": "0ussama",
+      "tray_image_file": "man1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "man1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "man2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "man3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "man4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "man5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "man6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "man7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "man8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        }
+      ]
+    },{
+      "identifier": "3",
+      "name": "BLM",
+      "publisher": "0ussama",
+      "tray_image_file": "blm3.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "blm1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "blm2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "blm3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "blm4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "blm5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "blm6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "blm7.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "blm8.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        }
+      ]
+    },
+
+    {
+      "identifier": "4",
+      "name": "E moji",
+      "publisher": "0ussama",
+      "tray_image_file": "emoji1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "emoji1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "emoji2.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "emoji3.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "emoji4.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "emoji5.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "emoji6.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "emoji7.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "emoji8.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "emoji9.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "emoji10.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "emoji11.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "emoji12.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "emoji13.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "emoji14.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "emoji15.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "emoji16.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "emoji17.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "emoji18.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        },
+        {
+          "image_file": "emoji19.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "emoji20.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "emoji21.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "emoji22.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "emoji23.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "emoji24.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "emoji25.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "identifier": "7",
+      "name": "Black Heroes",
+      "publisher": "0ussama",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "22.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "23.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "24.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "25.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "26.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "28.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "29.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "30.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        }
+      ]
+    },
+    {
+
+      "identifier": "8",
+      "name": "Stickers",
+      "publisher": "0ussama",
+      "tray_image_file": "s6.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "s2.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "s3.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "s4.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "s5.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "s6.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "s7.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "s8.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "s9.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "s10.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "s11.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "s12.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "s13.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "s14.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "s15.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "s16.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "s17.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "s18.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        },
+        {
+          "image_file": "s19.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "s20.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "s21.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "s22.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Devil",
+      "publisher": "0ussama",
+      "tray_image_file": "d1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "d1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+
+        {
+          "image_file": "d2.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+
+        {
+          "image_file": "d3.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "d4.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "d5.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "d6.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "d7.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "d8.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "d9.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "d10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "d11.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "d12.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "d13.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "d14.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "d15.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "d16.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "d17.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "d18.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "d19.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "d20.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        }
+      ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ,{
+      "identifier": "5",
+      "name": "WE moji",
+      "publisher": "0ussama",
+      "tray_image_file": "wemoji1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "wemoji1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "wemoji2.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "wemoji3.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "wemoji4.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "wemoji5.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "wemoji6.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "wemoji7.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "wemoji8.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "wemoji9.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "wemoji10.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "wemoji11.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "wemoji12.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "wemoji13.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "wemoji14.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "wemoji15.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "wemoji16.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "wemoji17.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "wemoji18.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        },
+        {
+          "image_file": "wemoji19.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "wemoji20.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "wemoji21.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "wemoji22.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "wemoji23.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "wemoji24.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "wemoji25.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        }
+      ]
+    },{
+      "identifier": "6",
+      "name": "ME moji",
+      "publisher": "0ussama",
+      "tray_image_file": "memoji1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "memoji1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "memoji2.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "memoji3.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "memoji4.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "memoji5.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "memoji6.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "memoji7.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "memoji8.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "memoji9.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "memoji10.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "memoji11.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "memoji12.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "memoji13.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "memoji14.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "memoji15.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "memoji16.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "memoji17.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "memoji18.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        },
+        {
+          "image_file": "memoji19.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "memoji20.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "memoji21.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "memoji22.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "memoji23.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "memoji24.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },{
+          "image_file": "memoji25.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        }
+      ]
+    }
+  ]
+}
